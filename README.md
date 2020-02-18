@@ -15,7 +15,7 @@ pip install -i https://test.pypi.org/simple/ foocat2
 
 ### Dependencies
 
-- TODO
+- pandas
 
 ### Usage
 
