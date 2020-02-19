@@ -159,5 +159,5 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-
+extensions = ['recommonmark']
 
