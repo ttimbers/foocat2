@@ -27,7 +27,6 @@ Example usage:
 ```
 
 ```
-cat.catbind(a, b)
 [character, hits, your, eyeballs, but, integer, where it, counts]
 Categories (8, object): [but, character, counts, eyeballs, hits, integer, where it, your]
 ```
