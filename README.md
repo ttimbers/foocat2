@@ -1,6 +1,6 @@
 ## foocat2 
 
-![](https://github.com/ttimbers/foocat2/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/ttimbers/foocat/branch/master/graph/badge.svg)](https://codecov.io/gh/ttimbers/foocat2) ![Release](https://github.com/ttimbers/foocat2/workflows/Release/badge.svg)
+![](https://github.com/ttimbers/foocat2/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/ttimbers/foocat/branch/master/graph/badge.svg)](https://codecov.io/gh/ttimbers/foocat2) ![Release](https://github.com/ttimbers/foocat2/workflows/Release/badge.svg)[![Documentation Status](https://readthedocs.org/projects/foocat2/badge/?version=latest)](https://foocat2.readthedocs.io/en/latest/?badge=latest)
 
 Python package that eases the pain concatenating Pandas categoricals!
 
