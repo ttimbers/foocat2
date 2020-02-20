@@ -8,6 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.7"
 pandas = "^1.0.1"
+sphinxcontrib-napoleon = "^0.7"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.3.5"
@@ -15,6 +16,7 @@ pytest-cov = "^2.8.1"
 codecov = "^2.0.15"
 python-semantic-release = "4.6.0"
 flake8 = "^3.7.9"
+sphinx = "^2.4.2"
 
 [tool.semantic_release]
 version_variable = "foocat2/__init__.py:__version__"
